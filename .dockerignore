@@ -1,0 +1,12 @@
+# .dockerignore
+.vscode/
+sample_dataset/pdfs/
+sample_dataset/outputs/
+__pycache__/
+*.pdf
+*.json
+*.ipynb
+*.pyc
+.DS_Store
+
+
