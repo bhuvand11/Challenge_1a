@@ -88,7 +88,7 @@ Challenge_1a/
 
 ## ✅ Output
 
-* Each PDF is parsed and labeled into `title`, `H1`, `H2` blocks
+* Each PDF is parsed and labeled into `title`, `H1`, `H2`, `H3` blocks
 * Output is stored as a structured JSON in the `outputs/` folder
 
 ---
